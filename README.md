@@ -107,12 +107,12 @@ The average number of jobs in the run queue (state R) or waiting for disk I/O (s
 
 #### [mem.memTotal](http://doc-metrix.github.io/memory/)
 
-The total amount of usable RAM. This metric is reported in `bytes`.
+The total amount of usable RAM. This metric is reported in `kilobytes`.
 
 
 #### [mem.memFree](http://doc-metrix.github.io/memory/)
 
-The total mount of free RAM. This metric is reported in `bytes`.
+The total mount of free RAM. This metric is reported in `kilobytes`.
 
 
 #### [mem.ramUtilization](http://doc-metrix.github.io/memory/)
@@ -175,7 +175,7 @@ $ node ./examples/index.js
 
 ## Notes
 
-1. 	As stated in the Node.js [documentation](http://nodejs.org/api/os.html#os_os_loadavg), `loadavg` is not supported on Windows platforms.
+1. 	As stated in the Node.js [documentation](http://nodejs.org/api/os.html#os_os_loadavg), `loadavg` is __not__ supported on Windows platforms.
 
 2. 	Note that the length of the CPU metric `array` is __one more than__ the number of CPUs.
 
