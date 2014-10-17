@@ -145,7 +145,7 @@ Number of milliseconds a CPU has spent in `user` mode and had a positive `nice` 
 Number of milliseconds spent addressing hardware interrupts.
 
 
-#### [cpu.<metric>Average](https://doc-metrix.github.io/cpu/)
+#### [cpu.&lt;metric&gt;Average](https://doc-metrix.github.io/cpu/)
 
 All metrics with the suffix `Average` are the mean values calculated across all CPUs.
 
