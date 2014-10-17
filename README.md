@@ -34,8 +34,8 @@ The following is an example output...
 		"15m": 1.93359375
 	},
 	"mem": {
-		"memTotal": 8589934592,
-		"memFree": 230801408,
+		"memTotal": 8589934.592,
+		"memFree": 230801.408,
 		"ramUtilization": 0.9731311798095703
 	},
 	"cpu": [
