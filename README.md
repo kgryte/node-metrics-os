@@ -87,7 +87,7 @@ The following metrics are reported...
 
 #### [uptime](http://doc-metrix.github.io/general/)
 
-The number of milliseconds since the last system reboot. In contrast to [`os.uptime()`]((http://nodejs.org/api/os.html#os_os_uptime), the `uptime` reported by this utility is in `milliseconds` so as to match the units for CPU metrics (`idle`, `user`, `system`, `nice`, `iqr`).
+The number of milliseconds since the last system reboot. In contrast to [`os.uptime()`](http://nodejs.org/api/os.html#os_os_uptime), the `uptime` reported by this utility is in `milliseconds` so as to match the units for CPU metrics (`idle`, `user`, `system`, `nice`, `iqr`).
 
 
 #### [load.1m](http://doc-metrix.github.io/general/)
