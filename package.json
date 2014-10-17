@@ -1,6 +1,6 @@
 {
   "name": "metrics-os",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to get system metrics.",
   "author": {
     "name": "Athan Reines",
