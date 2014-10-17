@@ -15,13 +15,12 @@ $ npm install metrics-os
 
 ## Usage
 
-To use the utility,
+The module exports a single method, which returns an `object` containing `uptime`, `load`, `mem`, and `cpu` metrics. To use the utility,
 
 ``` javascript
-var getMetrics = require( 'metrics-os' );
+var getMetrics = require( 'metrics-os' ),
+	metrics = getMetrics();
 ```
-
-The module exports a single method, which returns an `object` containing `uptime`, `load`, `mem`, and `cpu` metrics.
 
 The following is an example output...
 
