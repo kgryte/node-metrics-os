@@ -22,7 +22,7 @@ var getMetrics = require( 'metrics-os' ),
 	metrics = getMetrics();
 ```
 
-The following is an example output...
+The following is an example metrics output...
 
 ``` javascript
 {
