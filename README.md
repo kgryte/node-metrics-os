@@ -4,6 +4,8 @@ OS Metrics
 
 > Utility to get system metrics.
 
+<a target="_blank" rel="nofollow" href="https://app.codesponsor.io/link/2GH3ESgBANYoWNMCAicW2LQk/kgryte/node-metrics-os"><img alt="Sponsor" width="888" height="68" src="https://app.codesponsor.io/embed/2GH3ESgBANYoWNMCAicW2LQk/kgryte/node-metrics-os.svg"/></a>
+
 
 ## Installation
 
